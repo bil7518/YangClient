@@ -1,6 +1,6 @@
 1.Pyro
 
-> Combat
+Combat
 AntiBots 防假人(小游戏服用，但是一般没人用)
 Aura 杀戮光环
 AutoArmor 自动穿装备
@@ -20,7 +20,7 @@ SelfWeb 在自己脚底下放置蜘蛛网(让敌人下不来然后炸敌人)
 Surround 黑曜石围自己
 Velocity 防击退(一定要开！不然打水晶打一下直接飘起来)
 
-> Exploit
+Exploit
 AntiHunger 防饥饿(但是还会掉，就是掉的慢)
 AutoDupe 自动刷物品(2b2t.org有用，后期应该会ban)
 NewChunk  新的区块(就是该区块你是第一个加载的，以前没人来过)
@@ -29,7 +29,7 @@ PingSpoof 假延迟
 PortalGodMode 传送门神模式(进/出地狱门获得god模式，但是不知道2b2t.org能不能用了)
 Reach 长臂
 
-> Movement
+Movement
 irStrafe 空中speed
 AutoWalk 自动走路
 Baritone 自动挖矿那些的(前缀一般是#)
@@ -53,7 +53,7 @@ Sprint 自动疾跑
 Step 自动上台阶
 YawLock 锁定视角
 
-> Misc
+Misc
 AntiAFK 防挂机
 AntiAim 防自瞄(应该是)
 AntiPacketBan 防禁人书/塔等
@@ -74,7 +74,7 @@ SkinBlink 皮肤闪烁
 Spammer 自动喊话(刷屏)
 XCarry 多四格物品栏
 
-> Render
+Render
 BreakHighlight 被看见的方块边缘会亮
 Brightness 无限夜视
 Chams 透视
@@ -96,7 +96,7 @@ SmallShield 缩小副手物品大小
 Tracers 线条，直向玩家等
 ViewClip 第三人称看自己更远距离
 
->World
+World
 AutoMine 自动挖掘
 AutoTunnel 应该是自动调音
 Avoid 防掉虚空(Anti void)
@@ -109,9 +109,9 @@ Wallhack 矿透
 Waypoints 别人下线地点，自己死亡地点
 Weather 不渲染天气
 
->Advanced
->AutoPilot 自动船飞
->StashSorter 找基地的 
+Advanced
+AutoPilot 自动船飞
+StashSorter 找基地的 
 来自作者：FiLOLer https://www.bilibili.com/read/cv11400825/ 出处：bilibili
 
 trollhack:https://www.bilibili.com/video/BV1UW4y1B72f/

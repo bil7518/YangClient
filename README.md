@@ -8,7 +8,7 @@
 > 先说一下这个端的特点吧:
 1.这个端是公益客户端,或者只有一个人就是我  
 2.版本使用1.12.2是常规的无政府服务器版本
-3.本端使用MadCat+TrollHack+EarthHack+Pyro,pyro会提供翻译
+3.本端使用MadCat+TrollHack+3ar+Pyro,pyro会提供翻译
     
 
 > 注意(此内容借鉴与合作伙伴)：
